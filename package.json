@@ -10,8 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "usb": "^2.1.2",
+    "canvas": "^3.1.0",
     "crc-32": "^1.2.1",
-    "pngjs": "^6.0.0"
+    "pngjs": "^6.0.0",
+    "usb": "^2.1.2"
   }
 }
